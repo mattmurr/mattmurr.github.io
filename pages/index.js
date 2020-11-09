@@ -41,7 +41,7 @@ const Home = ({ posts }) => {
           </div>
           <div className="text-lg text-center text-gray-500 lg:text-xl">
             <p>
-              I recently graduated from a
+              Hi, I'm Matt, I recently graduated from a
               <strong> Data Engineering Bootcamp</strong>.{" "}
             </p>
             <p>
