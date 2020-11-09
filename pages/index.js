@@ -11,21 +11,21 @@ const Home = ({ posts }) => {
       title: "github-user-statistics",
       description:
         "WIP React front-end to search for GitHub users using GitHub API, Apollo, GraphQL & React-Waypoint. Hosted on Google Firebase through GitHub Actions.",
-      image: "/github-user-statistics.png",
+      image: "github-user-statistics.png",
       url: "https://github-user-statistics.web.app/",
     },
     {
       title: "generation-final-project",
       description:
         "Final team project as a part of the Generation 'Get into Data Engineering' bootcamp, Serverless AWS Lambda Python3 ETL process. Visualisations with Grafana.",
-      image: "/generation-final-project.png",
+      image: "generation-final-project.png",
       url: "",
     },
     {
       title: "mylib",
       description:
         "C99 Library containing various data structures and utilities, Vectors, Linked lists, Hash maps",
-      image: "/mylib.png",
+      image: "mylib.png",
       url: "https://github.com/mattmurr/mylib",
     },
   ];
