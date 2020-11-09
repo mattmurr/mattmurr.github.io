@@ -17,14 +17,14 @@ const Home = ({ posts }) => {
     {
       title: "generation-final-project",
       description:
-        "Final team project as a part of the Generation 'Get into Data Engineering' bootcamp, Serverless AWS Lambda Python3 ETL process. Visualisations with Grafana.",
+        "Final team project as a part of the Generation 'Get into Data Engineering' bootcamp, Serverless AWS Lambda Python3 ETL process. Visualizations with Grafana.",
       image: "generation-final-project.png",
       url: "#",
     },
     {
       title: "mylib",
       description:
-        "C99 Library containing various data structures and utilities, Vectors, Linked lists, Hash maps",
+        "C99 Library containing various data structures and utilities, vectors, linked lists, hash maps, bitsets",
       image: "mylib.png",
       url: "https://github.com/mattmurr/mylib",
     },
