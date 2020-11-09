@@ -19,7 +19,7 @@ const Home = ({ posts }) => {
       description:
         "Final team project as a part of the Generation 'Get into Data Engineering' bootcamp, Serverless AWS Lambda Python3 ETL process. Visualisations with Grafana.",
       image: "generation-final-project.png",
-      url: "",
+      url: "#",
     },
     {
       title: "mylib",
