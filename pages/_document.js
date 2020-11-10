@@ -8,11 +8,6 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <title>Matthew Murray</title>
-          <meta
-            name="description"
-            content="I'm a data engineer, looking to expand knowledge to become a technology polyglot. I also blog about BSD, Linux and self-hosting open-source software."
-          />
           <script
             async
             src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
@@ -23,6 +18,7 @@ export default class MyDocument extends Document {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
+            gtag('set', {cookie_flags: 'SameSite=None;Secure'});
             gtag('config', '${GA_TRACKING_ID}', {
               page_path: window.location.pathname,
             });

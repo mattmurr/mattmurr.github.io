@@ -24,14 +24,14 @@ const Home = ({ posts }) => {
     {
       title: "mylib",
       description:
-        "C99 Library containing various data structures and utilities, vectors, linked lists, hash maps, bitsets",
+        "C99 Library containing various data structures and utilities. Vectors, linked lists, hash maps and bitsets",
       image: "mylib.png",
       url: "https://github.com/mattmurr/mylib",
     },
   ];
 
   return (
-    <div className="container p-4 mx-4 mx-auto md:w-3/5">
+    <div className="container p-4 mx-4 mx-auto lg:w-3/5">
       <NavBar />
       <div className="container">
         <section className="flex flex-col my-8 lg:my-24">
