@@ -17,9 +17,9 @@ const Home = ({ posts }) => {
     {
       title: "generation-final-project",
       description:
-        "Final team project as a part of the Generation 'Get into Data Engineering' bootcamp, Serverless AWS Lambda Python3 ETL process. Visualizations with Grafana.",
+        "Final team project as a part of the Generation 'Get into Data Engineering' bootcamp, Serverless, AWS Lambda, Python3 ETL process. Visualizations with Grafana.",
       image: "generation-final-project.png",
-      url: "#",
+      url: "https://github.com/data-engineering-de-lon1-gen-z/team-z",
     },
     {
       title: "mylib",
