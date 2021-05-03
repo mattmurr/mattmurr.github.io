@@ -42,11 +42,12 @@ const Home = ({ posts }) => {
           <div className="text-lg text-center text-gray-500 lg:text-xl">
             <p>
               Hi, I'm Matt, I recently graduated from a
-              <strong> Data Engineering Bootcamp</strong>.{" "}
+              <a href="https://uk.generation.org/">
+                <strong> Data Engineering Bootcamp</strong>.
+              </a>
             </p>
             <p>
-              Looking for somewhere to continue developing my knowledge to
-              become an absolute technology polyglot.
+              On the highway of learning and become a wizard of all things tech.
             </p>
             <p>I also post about self-hosting OSS and Unix-like systems.</p>
           </div>
