@@ -47,7 +47,8 @@ const Home = ({ posts }) => {
               </a>
             </p>
             <p>
-              On the highway of learning and become a wizard of all things tech.
+              On the highway of learning and to become a wizard of all things
+              tech.
             </p>
             <p>I also post about self-hosting OSS and Unix-like systems.</p>
           </div>
